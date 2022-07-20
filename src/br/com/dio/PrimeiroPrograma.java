@@ -8,7 +8,7 @@ public class PrimeiroPrograma {
 
         System.out.println(gato);
 
-        Livro livro1 = new Livro(nome:"As arveres somos nozes", numPaginas:300)
+        Livro livro1 = new Livro(":As arveres somos nozes", 300);
         System.out.println(livro1);
 
 
